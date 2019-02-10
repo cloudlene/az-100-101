@@ -18,13 +18,12 @@
  - Directories
 	 - Microsoft vs. Work/Home Account
 	 - RBAC roles
-	 - Switching
+	 - Switching directories, Naming Best Practices
  - Policies
-
- 
+	 - Subscription level Policies, Cost & Budget
  
  3. Implement and manage storage (20-25%) 
  4. Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODUzNTIwOTRdfQ==
+eyJoaXN0b3J5IjpbNTAzMjg4NjU1XX0=
 -->
