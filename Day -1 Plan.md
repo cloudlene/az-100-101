@@ -9,7 +9,9 @@
  - Azure Resource Organization
 	 - Enterprise Agreement, Pay-as-you-go, CSP
 		 - Departments, Accounts, Subscriptions, Resource Groups, Resources, Meters, Cost Centers, Tags
-		 -	Hands-on:  A tour of the Azure EA portal
+
+Hands-on:  A tour of the Azure EA portal
+
  - Manage Azure Subscriptions
 	 - Difference between Azure subscriptions:  Enterprise, Dev/Test
 	 - Create /cancel new subscriptions
@@ -42,5 +44,5 @@
 #### 2.  Implement and manage storage (20-25%) 
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM4MDM3NzgwXX0=
+eyJoaXN0b3J5IjpbNzg5MTA0NDg1XX0=
 -->
