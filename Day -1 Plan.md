@@ -41,7 +41,9 @@
  - Remove resource groups
 
 #### 2.  Implement and manage storage (20-25%) 
+- Create storage account
+- Type 
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODg3NDY2Ml19
+eyJoaXN0b3J5IjpbLTMzNzgxODY5MF19
 -->
