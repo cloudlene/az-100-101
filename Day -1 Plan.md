@@ -49,9 +49,10 @@
 - Secure Storage Accounts:  SAS keys
 - Static Websites
 ##### Import and export data to Azure
-####
+##### Configure Azure files
+##### Implemenent Azure Backup
 
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0OTM3NjA2NV19
+eyJoaXN0b3J5IjpbMTc0NjYyMDA4NF19
 -->
