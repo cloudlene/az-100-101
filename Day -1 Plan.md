@@ -15,6 +15,7 @@
 	 - Create /cancel new subscriptions
 	 - Tour of various roles:  Account, Service Administrator, Co-Administrator, RBAC roles
 	 - Configure Azure Subscription policies
+<code> A tour of Azure Portal (http://portal.azure.com) and http://account.azure.com/subscriptions </code>
  - Directories
 	 - Microsoft vs. Work/Home Account
 	 - RBAC roles
@@ -42,5 +43,5 @@
 #### 2.  Implement and manage storage (20-25%) 
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA4MzY2Ml19
+eyJoaXN0b3J5IjpbLTg2ODg3NDY2Ml19
 -->
