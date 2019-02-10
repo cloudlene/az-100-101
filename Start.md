@@ -1,6 +1,6 @@
 # Welcome to Azure Training
 
-Hello!  My name is [Vyas Bharghava](http://www.linkedin/
+Hello!  My name is [Vyas Bharghava](https://www.linkedin.com/in/vyasbharghava/).  I'm the Founder & Chief Technology Strategist for [Cloudlene Inc.](http://www.cloudlene.com)  and I'm also the CTO of [Hanu Software Solutions](http://www.hanu.com).  I have a passion for training, so here I'm to
 
 # Files
 
@@ -141,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3OTI0NzUyXX0=
+eyJoaXN0b3J5IjpbMTEyNTY4MTA3Nl19
 -->
