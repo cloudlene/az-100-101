@@ -29,11 +29,11 @@
  - Monitor spend Report on spend
  - Utilize Log search query functions 
  - View alerts in Log Analytics
- - Policies
-	 - Subscription level Policies, Cost & Budget
- 
- - Implement and manage storage (20-25%) 
+
+##### Manage Resource Groups
+
+#### 2.  Implement and manage storage (20-25%) 
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDM1ODEwMl19
+eyJoaXN0b3J5IjpbNzU5MjEyODM2XX0=
 -->
