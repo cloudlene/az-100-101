@@ -41,14 +41,17 @@
  - Remove resource groups
 
 #### 2.  Implement and manage storage (20-25%) 
+##### Create and configure storage accounts
 - Create storage account
 - Types of Storage:  Geo Replicated, Readonly, Locally Redundant etc.
 - Access control storage
 - Upload files
 - Secure Storage Accounts:  SAS keys
 - Static Websites
-- 
+##### Import and export data to Azure
+####
+
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzQwNjg4NF19
+eyJoaXN0b3J5IjpbMTg0OTM3NjA2NV19
 -->
