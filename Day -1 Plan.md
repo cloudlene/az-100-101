@@ -21,11 +21,14 @@
 	 - Switching directories, Naming Best Practices
 ##### Analyze resource utilization and consumption
 
+     - Configure diagnostic settings on resources
+     - Create baseline for    resources Create and test alerts Analyze alerts across subscription    Analzye metrics across subscription Create Action Groups Monitor for    unused resources Monitor spend Report on spend Utilize Log search    query functions View alerts in Log Analytics
+
  - Policies
 	 - Subscription level Policies, Cost & Budget
  
- 3. Implement and manage storage (20-25%) 
- 4. Deploy and manage virtual machines (VMs)    (20-25%) 
+ - Implement and manage storage (20-25%) 
+ - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA5MjIzODc2XX0=
+eyJoaXN0b3J5IjpbMTEyNzEyNTMwMV19
 -->
