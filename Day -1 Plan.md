@@ -20,15 +20,20 @@
 	 - RBAC roles
 	 - Switching directories, Naming Best Practices
 ##### Analyze resource utilization and consumption
-
-     - Configure diagnostic settings on resources
-     - Create baseline for    resources Create and test alerts Analyze alerts across subscription    Analzye metrics across subscription Create Action Groups Monitor for    unused resources Monitor spend Report on spend Utilize Log search    query functions View alerts in Log Analytics
-
+ - Configure diagnostic settings on resources
+ - Create baseline for resources 
+ - Create and test alerts Analyze alerts across subscription    
+ - Analzye metrics across subscription
+ -  Create Action Groups
+ -  Monitor for unused resources
+ - Monitor spend Report on spend
+ - Utilize Log search query functions 
+ - View alerts in Log Analytics
  - Policies
 	 - Subscription level Policies, Cost & Budget
  
  - Implement and manage storage (20-25%) 
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzEyNTMwMV19
+eyJoaXN0b3J5IjpbMTYyMDM1ODEwMl19
 -->
