@@ -9,18 +9,22 @@
  
  - Azure Resource Organization
 	 - Enterprise Agreement, Pay-as-you-go, CSP
-		 - Departments, Accounts, Subscriptions, Resource Groups, Resources, Meters
+		 - Departments, Accounts, Subscriptions, Resource Groups, Resources, Meters, Cost Centers, Tags
 		 -	Hands-on:  A tour of the Azure EA portal
  - Manage Azure Subscriptions
 	 - Difference between Azure subscriptions:  Enterprise, Dev/Test
 	 - Create /cancel new subscriptions
-	 - Tour of various roles:  Account, Service Administrator, C
- - 
+	 - Tour of various roles:  Account, Service Administrator, Co-Administrator, RBAC roles
+ - Directories
+	 - Microsoft vs. Work/Home Account
+	 - RBAC roles
+	 - Switching
+ - Policies
 
  
  
  3. Implement and manage storage (20-25%) 
  4. Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjI2MTk4NV19
+eyJoaXN0b3J5IjpbLTE2ODUzNTIwOTRdfQ==
 -->
