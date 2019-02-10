@@ -1,9 +1,11 @@
 # Training Prerequistes
 
-1. Access to Azure account
-2. Signup for an Azure account or request an Azure account from your Administrator
-3. 
+ - [ ] List item
+
+Access to Azure account
+ - Signup for an Azure account or request an Azure account from your Administrator
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODg1NjUwN119
+eyJoaXN0b3J5IjpbMTkwMTE1MTUwN119
 -->
