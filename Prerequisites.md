@@ -6,7 +6,8 @@
  - [ ]  Install [Visual Studio code](http://code.visualstudio.com) 
  - [ ] Install [Azure Extensions for Visual Studio Code](https://code.visualstudio.com/docs/azure/extensions)
  - [ ] Install Azure PowerShell
+ - [ ] Install Azure Storage Explorer
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzQzMDQyNiwxNjU1MjI0MTYxXX0=
+eyJoaXN0b3J5IjpbMTUzMTI4NjM4NywxNjU1MjI0MTYxXX0=
 -->
