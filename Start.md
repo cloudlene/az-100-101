@@ -5,8 +5,8 @@ Hello! My name is  [Vyas Bharghava](https://www.linkedin.com/in/vyasbharghava/).
 
 # Content
 
-[Prerequisites](https://stackedit.io/prerequisites.md))  
+[Prerequisites](https://stackedit.io/prerequisites.md)  
 [Overall Plan](https://stackedit.io/overall%20plan.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTk2ODI1MF19
+eyJoaXN0b3J5IjpbLTE3OTkxMjY0OTNdfQ==
 -->
