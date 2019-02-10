@@ -3,8 +3,8 @@
 Hello!  My name is [Vyas Bharghava](https://www.linkedin.com/in/vyasbharghava/).  I'm the Founder & Chief Technology Strategist for [Cloudlene Inc.](http://www.cloudlene.com)  and I'm also the CTO of [Hanu Software Solutions](http://www.hanu.com).  I have a passion for training, so here I'm today from [Intellipaat](http://www.intellipaat.com).
 
 # Content
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+[Prerequisites](./prerequisites.md)
+[Overall Plan](./overall%20plan.md)
 
 ## Create files and folders
 
@@ -141,5 +141,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTAxNzE5MV19
+eyJoaXN0b3J5IjpbMTkyMDk4MTgwMV19
 -->
