@@ -32,8 +32,15 @@
 
 ##### Manage Resource Groups
 
+ - Use Azure policies for resource groups
+ - Configure resource locks
+ - Configure resource policies 
+ - Implement and set tagging on resource groups
+ - Move resources across resource groups
+ - Remove resource groups
+
 #### 2.  Implement and manage storage (20-25%) 
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5MjEyODM2XX0=
+eyJoaXN0b3J5IjpbMzM4MDM3NzgwXX0=
 -->
