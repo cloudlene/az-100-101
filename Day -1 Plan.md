@@ -42,8 +42,13 @@
 
 #### 2.  Implement and manage storage (20-25%) 
 - Create storage account
-- Type 
+- Types of Storage:  Geo Replicated, Readonly, Locally Redundant etc.
+- Access control storage
+- Upload files
+- Secure Storage Accounts:  SAS keys
+- Static Websites
+- 
  - Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNzgxODY5MF19
+eyJoaXN0b3J5IjpbMTE0NzQwNjg4NF19
 -->
