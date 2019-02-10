@@ -14,15 +14,17 @@
 	 - Difference between Azure subscriptions:  Enterprise, Dev/Test
 	 - Create /cancel new subscriptions
 	 - Tour of various roles:  Account, Service Administrator, Co-Administrator, RBAC roles
+	 - Configure Azure Subscription policies
  - Directories
 	 - Microsoft vs. Work/Home Account
 	 - RBAC roles
 	 - Switching directories, Naming Best Practices
+##### Analyze resource utilization and consumption
  - Policies
 	 - Subscription level Policies, Cost & Budget
  
  3. Implement and manage storage (20-25%) 
  4. Deploy and manage virtual machines (VMs)    (20-25%) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNjYxNjg3MF19
+eyJoaXN0b3J5IjpbLTE0MDgwNzY0NThdfQ==
 -->
